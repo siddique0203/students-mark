@@ -13,7 +13,7 @@ int main()
         sum = sum+students[i];//students[i]=students mark
     }
 
-    float avg=(float)sum/2;
+    float avg=(float)sum/n;
     cout<<"total marks   "<<sum<<endl;
     cout<<"avarage marks   "<<avg<<endl;
 
