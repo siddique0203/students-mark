@@ -35,7 +35,4 @@ int main()
         }
         cout<<"maximum number"<<max<<endl;
         cout<<"minimum number"<<min<<endl;
-
-
-
-    }
+}
